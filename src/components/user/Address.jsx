@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { getAddress, deleteAddress } from "../../features/address/addressSlice";
 
 import AddressCard from "../../components/AddressCard.jsx";
-import AddAddress from "./Addaddress.jsx";
+import AddAddress from "./AddAddress.jsx";
 import UpdateAddress from "./UpdateAddress.jsx";
 
 import {

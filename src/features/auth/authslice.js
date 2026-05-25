@@ -1,5 +1,5 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
-import * as API from "./authAPI";
+import * as API from "./authApi.js";
 import toast from "react-hot-toast";
 
 // REGISTER
